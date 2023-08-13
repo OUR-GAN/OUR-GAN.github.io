@@ -13,13 +13,13 @@ Therefore, we've posted downsampled versions of the images on this page for fast
 
 The images may look distorted depending on the viewer since the image resolution is very high. \
 So, please download samples, then evaluate the quality. \
-Download all samples (including all sections) - [link](https://drive.google.com/drive/folders/1dolQ7Go4IJmPgkTbhSZ20GWk53INSKR5?usp=sharing)\
+Download all samples (including all sections) - [link](https://drive.google.com/drive/folders/1YUweukIe356ZwmrEqNmCu07N_WA5iWxJ?usp=sharing)\
 <br>
 
 ### ST4K
 To train and evaluate OUR-GAN, we built a new UHR image dataset, **S**cenery and **T**exture-**4K** (**ST4K**), consisting of high-quality 4K scenery and texture images. \
 The ST4K dataset includes a total of 50 copyright-free images collected from the Internet with a minimum resolution of 4,096 × 2,160 pixels. \
-Download ST4K - [link](https://drive.google.com/drive/folders/1NtVU7UAXEJ-E9fW0V44nNGwQ3_cF3wMs)
+Download ST4K - [link](https://drive.google.com/drive/folders/1-be9tPTWJ2swRTohv5dzKoZVYyAkTioW?usp=sharing)
 <br>
 <br>
 
@@ -27,7 +27,7 @@ Download ST4K - [link](https://drive.google.com/drive/folders/1NtVU7UAXEJ-E9fW0V
 OUR-GAN can synthesize UHR image with higher resolution than that of the training image. \
 The resolution of this image is 16K, whereas that of the training image is only 4K. \
 OUR-GAN synthesize high-fidelity UHR images, preserving even fine details. \
-Download Sec 1. samples - [link](https://drive.google.com/drive/folders/1gjs8TEqrjyv4cWRUaIkXRk21EirzK8cO?usp=sharing)
+Download Sec 1. samples - [link](https://drive.google.com/drive/folders/1-QNA3SqVN0kunzwI43x3DH49zCfXB1CH?usp=sharing)
 
 <br>
 
@@ -83,7 +83,7 @@ Download Sec 1. samples - [link](https://drive.google.com/drive/folders/1gjs8TEq
 For one-shot image synthesis, achieving visual coherence while maintaining diversity is challenging. \
 HP-VAE-GAN[1] synthesizes diverse images but fails to catch global coherence, as shown below. \
 OUR-GAN, applied vertical coordinate convolution to HP-VAE-GAN, significantly improves the global coherence of patterns still generating diverse patterns.\
-Download Sec 2. samples - [link](https://drive.google.com/drive/folders/1fKEny60i508IzPfD_ad6LOY6Qbc_nOtF?usp=sharing)
+Download Sec 2. samples - [link](https://drive.google.com/drive/folders/1wCenETIRuku1CoVIhfSPqH3XStsRv7G0?usp=sharing)
 <br>
 
 <table>
@@ -120,7 +120,7 @@ Download Sec 2. samples - [link](https://drive.google.com/drive/folders/1fKEny60
 For UHR image synthesis, models that learns from small patch images like InfinityGAN[2] are hard to synthesize large-scale shapes.\
 But, OUR-GAN can synthesize globally coherent large-scale objects such as buildings.\
 You can download full-size InfinityGAN samples in the [InfinityGAN project page](https://hubert0527.github.io/infinityGAN/).\
-Download Sec 3. samples - [link](https://drive.google.com/drive/folders/1pgyolhbutsw3fpeeG73O5ynRUZIGIgia?usp=sharing)\
+Download Sec 3. samples - [link](https://drive.google.com/drive/folders/1a4GeqOu2rET6ys45R_dreqmWVVz9Hl3A?usp=sharing)\
 <br>
 
 
@@ -166,7 +166,7 @@ OUR-GAN-16K can synthesize 16K images from a single 16K training image with a si
 We further increased the resolution of OUR-GAN by applying an additional subregion-wise super-resolution step, referred to as OUR-GAN-16K. \
 OUR-GAN-16K successfully synthesized non-repetitive high-fidelity 16K images maintaining both visual coherence and fine details. \
 % The size of the biggest island at the rigth of the image is approximately 7,083 × 4,388. \
-Download Sec 4. samples - [island](https://drive.google.com/drive/folders/1C46bl3boX6C7ejnESXfSFtIW3eW7DHVE?usp=share_link), [forest](https://drive.google.com/drive/folders/1COCmJ_Rb7JFJZA6CnhmJrLdTmp3cVyhv?usp=share_link)
+Download Sec 4. samples - [island](https://drive.google.com/drive/folders/1GSX8vqHFDmKvvXODMl5YtmIdEOZd51I_?usp=sharing), [forest](https://drive.google.com/drive/folders/1OSTy3EBKcA9lWJr4HGa4JmhjPGKd9Q9W?usp=sharing)
 
 
 
